@@ -1,0 +1,10 @@
+openai
+langchain
+pydantic
+beautifulsoup4
+lxml
+pypdf
+wikipedia
+tiktoken
+chromadb
+google-search-results
